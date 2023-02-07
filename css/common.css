@@ -1,0 +1,22 @@
+*{  font-family: 'Poppins', sans-serif;
+}
+.h-font{
+    font-family: 'Vollkorn', serif;
+}
+.custom-bg{
+    background-color: blue;
+    border:1px solid blue;
+}
+.custom-bg:hover{
+    background-color: blue;
+    border-color: blue;
+}
+input::-webkit-outer-spin-button, 
+input::-webkit-inner-spin-button { 
+     -webkit-appearance: none; 
+            margin: 0; 
+     } 
+  /* Hidden arrow from input type=number */
+ input[type=number] { 
+     -moz-appearance: textfield; 
+ } 
